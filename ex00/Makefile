@@ -1,6 +1,6 @@
 OUTPUT				=	easyfind
 
-CC					=	@clang++
+CC					=	@clang++ -std=c++98
 SH					=	@bash
 RM					=	@/bin/rm -rf
 FLAGS				=	-Wextra -Wall -Werror -g -fsanitize=address
