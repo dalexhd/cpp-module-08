@@ -6,13 +6,13 @@
 /*   By: aborboll <aborboll@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/13 13:56:47 by aborboll          #+#    #+#             */
-/*   Updated: 2021/12/13 21:56:21 by aborboll         ###   ########.fr       */
+/*   Updated: 2021/12/13 22:24:01 by aborboll         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "span.hpp"
 
-int main()
+int main(void)
 {
 	Span sp = Span(5);
 
